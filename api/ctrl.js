@@ -1,5 +1,5 @@
 var db = require('./db.js');
-var md5 = require('md5');
+var md5 = require('MD5');
 var prefix = "/g/";
 
 module.exports = {
